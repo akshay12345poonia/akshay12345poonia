@@ -57,20 +57,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=akshay12345poonia&show_icons=true&locale=en" alt="akshay12345poonia" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshay12345poonia&layout=compact" alt="Top Langs" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akshay12345poonia&" alt="Streak" />
-</p>
-
----
-
 ### 🐍 GitHub Contribution Snake
 
 <picture>
