@@ -13,7 +13,6 @@
 - 🌱 Currently exploring Generative AI and advanced MERN practices.
 - ⚡ Strong foundation in JavaScript & modern web technologies.
 -  🎯 Focused on building scalable, user-friendly, and secure web applications.
-- 🌱 I’m currently learning **Advanced MERN Stack & Generative AI Integration**
 - 💬 Ask me about **JavaScript, React, Node.js, Express, MongoDB**
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/akshay-poonia-b072811a1)
 
