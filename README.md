@@ -8,6 +8,11 @@
 ---
 
 ### 🧑‍💻 About Me
+💡 Passionate Full Stack Developer specializing in React.js, Node.js, and Firebase.
+⚡ Strong foundation in JavaScript & modern web technologies.
+🎯 Focused on building scalable, user-friendly, and secure web applications.
+🌱 Currently exploring Generative AI and advanced MERN practices.
+
 
 - 🌱 I’m currently learning **Advanced MERN Stack & Generative AI Integration**
 - 💬 Ask me about **JavaScript, React, Node.js, Express, MongoDB**
